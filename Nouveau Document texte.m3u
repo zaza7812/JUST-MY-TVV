@@ -1,0 +1,19 @@
+#EXTM3U
+
+# Catégorie : Chaînes Arabes
+#EXTINF:-1 group-title="Arabic Channels", Al Jazeera
+http://example.com/arabic/aljazeera.m3u8
+#EXTINF:-1 group-title="Arabic Channels", MBC
+http://example.com/arabic/mbc.m3u8
+
+# Catégorie : Chaînes Françaises
+#EXTINF:-1 group-title="French Channels", TF1
+http://example.com/french/tf1.m3u8
+#EXTINF:-1 group-title="French Channels", France 2
+http://example.com/french/france2.m3u8
+
+# Catégorie : Films
+#EXTINF:-1 group-title="Movies", Movie Channel 1
+http://example.com/movies/movie1.m3u8
+#EXTINF:-1 group-title="Movies", Movie Channel 2
+http://example.com/movies/movie2.m3u8
